@@ -1,5 +1,7 @@
-export default Chart = () => {
+const Chart = () => {
   <>
-
+    <div>f</div>
   </>
 }
+
+export default Chart;
